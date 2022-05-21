@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    color: brown;
+    box-shadow: 10px 10px 5px 5px grey;
+    text-align: center;
+}
+
+.link-nav{
+    border: 2px solid red;
+    color: brown;
+    background-color: black;
+}
+
+header{
+    background-color: black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 15px;
+}
+
+header:hover{
+    box-shadow:5px 5px 15px 2px red;
+}
